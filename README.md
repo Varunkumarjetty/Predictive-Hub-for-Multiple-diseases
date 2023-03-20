@@ -24,3 +24,5 @@ Heart disease, on the other hand, is a broad term that refers to any condition t
 *Parkinson's Dataset - https://www.kaggle.com/datasets/debasisdotcom/parkinson-disease-detection
 
 Finally, Parkinson's disease is a neurodegenerative disorder that affects movement and is characterized by tremors, stiffness, and difficulty with coordination.
+
+Feel free to connect on linkedln for any clarification or suggestion.
