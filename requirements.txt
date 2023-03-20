@@ -1,5 +1,6 @@
 pandas==1.5.3
 numpy==1.23.5
-sklearn==0.0.post1
+scikit-learn==1.0.1
 streamlit==1.20.0
 streamlit-option-menu==0.3.2
+pickle-mixin==1.0.2
